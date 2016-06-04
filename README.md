@@ -1,4 +1,5 @@
 # BlinkingLabel
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/ChangQiong/BlinkingLabel.svg?style=flat)](https://travis-ci.org/ChangQiong/BlinkingLabel)
 [![Version](https://img.shields.io/cocoapods/v/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
@@ -27,3 +28,6 @@ ChangQiong, pprgra56@126.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+=======
+我是描述
+>>>>>>> 1b034138a6979c3d44f403367c20980e79c11b80
